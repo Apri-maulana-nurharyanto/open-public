@@ -1,0 +1,360 @@
+<div class="card-layout">
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-tamplate.jpg" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-woman.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src="../assets icon/profile-man.png" alt="photo-profile" loading="lazy">
+        </div>
+        <p class="name">Nama kamu sendiri</p>
+        <p class="description">Keterangan</p>
+    </div>
+</div>
+
+https://www.freepik.com/free-vector/gradient-abstract-background-design_17348611.htm#from_view=detail_alsolike
+
+<div class="clock">
+    <div class="jam" id="jam"></div>
+    <div class="menit" id="menit"></div>
+    <div class="detik" id="detik"></div>
+</div>
